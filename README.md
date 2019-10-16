@@ -18,5 +18,3 @@ MatConvNet package is required.
 # SRx2 for old LR images
 <img src="readme_figs/old_LR_images.png"> 
 
-# TODO:
-Add RunMe script for estimated non-ideal kernels.
